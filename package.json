@@ -1,0 +1,15 @@
+{
+  "name": "task1-dynamic-objects",
+  "version": "1.0.0",
+  "description": "Задание 1. Динамические объекты на TypeScript",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "ts-node src/main.ts",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.29",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
